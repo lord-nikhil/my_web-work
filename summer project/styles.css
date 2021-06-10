@@ -1,0 +1,78 @@
+a.about{
+    color: #13F7D2;
+    position: absolute;
+    top: 20px;
+    left: 1400px;
+    text-decoration: none;
+    font-size: 30px;
+}
+a.contact{
+    color:#13F7D2;
+    position: absolute;
+    top: 20px;
+    left:1100px;
+    text-decoration: none;
+    font-size: 30px;
+}
+/* .outer{
+
+} */
+.inner{
+    position: relative;
+    right :100px;
+    bottom: 30px;
+}
+body{
+   background-color: black;
+}
+.person{
+    position: absolute;
+    left:250px;
+    
+}
+p.name{
+    position: relative;
+    color:#13F7D2;
+    font-size: 50px;
+    text-align: center;
+    top:0px;
+}
+p.detail{
+    position: relative;
+    top:0px;
+    left:600px;
+    text-align: justify;
+    color:white;
+    font-size: 20px;
+}
+img.fb_circle{
+    position: relative;
+    top:300px;
+    left:530px;
+}
+img.fb{
+    position: relative;
+    top:285px;
+    left:490px;
+}
+img.twitter_circle{
+    position: relative;
+    top:300px;
+    left:520px;
+}
+img.twitter{
+    position: relative;
+    top:285px;
+    left:470px;
+}
+
+img.git_circle{
+    position: relative;
+    top:300px;
+    left:500px;
+}
+img.git{
+    position: relative;
+    top:285px;
+    left:450px;
+}
